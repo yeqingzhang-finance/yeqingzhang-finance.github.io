@@ -1,0 +1,20 @@
+/* 隐藏左侧栏 */
+.sidebar,
+#sidebar {
+  display: none !important;
+}
+/* 主体区域占满 */
+.main,
+#main,
+.content,
+#content {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin-left: 0 !important;
+}
+/* 如果主题是用 flex 布局的，可以这样保证撑开 */
+.page,
+#page,
+body .container {
+  display: block !important;
+}
