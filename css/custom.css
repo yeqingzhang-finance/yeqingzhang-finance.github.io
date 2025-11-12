@@ -1,0 +1,112 @@
+/* 1. 隐藏左侧栏：常见的几个 class/id 一起写 */
+.sidebar,
+#sidebar,
+.site-aside,
+.profile,
+.profile-wrap {
+  display: none !important;
+}
+
+/* 2. 让主要内容占满宽度 */
+.main,
+#main,
+.content,
+#content,
+.page,
+.site-main {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin-left: 0 !important;
+}
+
+/* 3. 有些主题用 flex 包了一层，把它展开 */
+.container,
+.site-wrapper,
+.body-wrap {
+  display: block !important;
+}
+
+/* 让正文看起来更像学术主页 */
+.site-main,
+#content,
+.content {
+  max-width: 960px !important;
+  margin: 0 auto !important;
+  padding: 1.5rem 1rem !important;
+}
+
+/* 顶部 hero 区域 */
+.hero {
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 14px;
+  padding: 1.8rem 1.6rem;
+  margin-bottom: 1.8rem;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.03);
+}
+
+.hero-title {
+  font-size: 2.1rem;
+  margin-bottom: .4rem;
+  font-weight: 700;
+}
+
+.hero-subtitle {
+  margin: .15rem 0;
+  font-size: 1rem;
+  color: #444;
+}
+
+.hero-meta {
+  margin: .15rem 0;
+  color: #666;
+  font-size: .9rem;
+}
+
+.hero a {
+  color: #0056b3;
+  text-decoration: none;
+}
+
+.hero a:hover {
+  text-decoration: underline;
+}
+
+/* 按钮样式 */
+.btn-primary {
+  display: inline-block;
+  margin-top: .7rem;
+  background: #0f766e;
+  color: #fff !important;
+  padding: .5rem 1rem;
+  border-radius: 9999px;
+  font-weight: 500;
+  transition: transform .1s ease-out, box-shadow .1s ease-out;
+}
+
+.btn-primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 12px rgba(15,118,110,.2);
+}
+
+/* 让下面的 section 更松一点 */
+.post-content h2,
+.post-content h3,
+.content h2,
+.content h3 {
+  margin-top: 1.6rem;
+  margin-bottom: .6rem;
+}
+
+.post-content ul {
+  margin-left: 1.2rem;
+  line-height: 1.6;
+}
+
+/* 美化分隔线 */
+.post-content hr,
+.content hr {
+  border: none;
+  border-top: 1px solid #eee;
+  margin: 1.6rem 0;
+}

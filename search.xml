@@ -1,59 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>学术简历样本</title>
-    <url>/academia-example.html</url>
-    <content><![CDATA[<h2 id="Yeqing-Zhang-张叶青"><a class="headerlink" href="#Yeqing-Zhang-张叶青"></a>Yeqing Zhang (张叶青)</h2>
-<p><strong>Associate Professor of Finance</strong>, National Academy of Financial and Economic Strategy,<br>
-<strong>Central University of Finance and Economics (CUFE)</strong></p>
-<p>Email: <a href="mailto:yeqingzhang@cufe.edu.cn">yeqingzhang@cufe.edu.cn</a></p>
-<h2 id="Download-CV"><a class="headerlink" href="#Download-CV"></a><a href="/attaches/CV.pdf">Download CV</a></h2>
-<h3 id="About"><a class="headerlink" href="#About"></a>About</h3>
-<p>Welcome to my website!</p>
-<p>I am an Associate Professor of Finance at the Central University of Finance and Economics.<br>
-I received my Ph.D. in Finance from <strong>Tsinghua University</strong> in 2021, and my B.A. in <strong>Financial Engineering</strong> from <strong>CUFE</strong> in 2015.</p>
-<hr>
-<h3 id="Research-Interests"><a class="headerlink" href="#Research-Interests"></a>Research Interests</h3>
-<ul>
-<li>Labor and Finance, Corporate Finance, AI and Big Data</li>
-</ul>
-<hr>
-<h3 id="Education"><a class="headerlink" href="#Education"></a>Education</h3>
-<ul>
-<li><strong>Ph.D. in Finance</strong>, Tsinghua University, 2021</li>
-<li><strong>B.A. in Financial Engineering</strong>, Central University of Finance and Economics, 2015</li>
-</ul>
-<hr>
-<h3 id="Selected-Working-Papers"><a class="headerlink" href="#Selected-Working-Papers"></a>Selected Working Papers</h3>
-<p><strong>Stock Price Shocks and Skill Demand</strong> (2025)</p>
-<ul>
-<li>with Yao Lu and Liu Yang</li>
-<li>Selected Presentations: FMA 2025, CICF 2023</li>
-</ul>
-<p><strong>Investors’ Risk-taking Behaviors after “Escaping from Death”</strong> (2025)</p>
-<ul>
-<li>with Xiaoying Xu</li>
-<li>Selected Presentations: FMA 2025, Asian FA 2024</li>
-</ul>
-<hr>
-<h3 id="Selected-Publications"><a class="headerlink" href="#Selected-Publications"></a>Selected Publications</h3>
-<p>[1] Can investment incentives crowd out innovation? Evidence from China (with Shaowei Ke, Yao Lu, and Xinzheng Shi), Economic Development and Cultural Change, 2025, 73(3), 1023-1072.<br>
-[2] Margin Trading, Short Selling, and Information Asymmetry (with Minggang Xu and Xueyong Zhang), Journal of Financial Markets, 2024: 100926.<br>
-[3] Do CEO Digital Characteristics Matter for Corporate Investment Efficiency (with Wei Jing and Danqi Sun), Accounting &amp; Finance, 2025, accepted.<br>
-[4] Mutual fund managers’ timing abilities (with Li Liao and Xueyong Zhang), 2017, Pacific-Basin Finance Journal, 44: 80–96.</p>
-<hr>
-<h3 id="中文论文-Publications-in-Chinese"><a class="headerlink" href="#中文论文-Publications-in-Chinese"></a>中文论文(Publications in Chinese)</h3>
-<p>[5] 张叶青, 陆瑶, 李乐芸. 2021. 大数据应用对中国企业市场价值的影响——来自中国上市公司年报文本分析的证据，经济研究, 56(12): 42–59.（封面文章）<br>
-[6] 张学勇, 张叶青（通讯作者）. 2016. 风险投资、创新能力与公司IPO的市场表现，经济研究，51(10): 112–125.<br>
-[7] 陆瑶, 张叶青, 黎波, 赵浩宇. 2020. 高管个人特征与公司业绩——基于机器学习的经验证据, 管理科学学报, 23 (2): 120–140.<br>
-[8] 陆瑶, 张叶青, 贾睿, 李健航. 2017. “辛迪加”风险投资与公司创新, 金融研究, 6: 159–175.<br>
-[9] 陆瑶, 施新政, 杨博涵, 张叶青. 2018. 沪港通实施、资本流动与A–H股溢价, 经济学报, 5(1): 1–26.</p>
-]]></content>
-      <tags>
-        <tag>Example</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Markdown高级语法</title>
     <url>/markdown-advance-syntax.html</url>
     <content><![CDATA[<p>有少数编辑器不支持，或者需要安装相应的扩展渲染，使用前请先预览确认。</p>
@@ -125,6 +72,67 @@ I received my Ph.D. in Finance from <strong>Tsinghua University</strong> in 2021
       </categories>
       <tags>
         <tag>混技能</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>学术简历样本</title>
+    <url>/academia-example.html</url>
+    <content><![CDATA[<div class="hero">
+  <h1 class="hero-title">Yeqing ZHANG (张叶青)</h1>
+  <p class="hero-subtitle">Associate Professor of Finance</p>
+  <p class="hero-subtitle">National Academy of Financial and Economic Strategy, CUFE</p>
+  <p class="hero-meta">39 South College Road, Haidian District, Beijing, P.R.China 100081</p>
+  <p class="hero-meta">
+    📧 <a href="mailto:yeqingzhang@cufe.edu.cn">yeqingzhang@cufe.edu.cn</a>
+  </p>
+  <p class="hero-actions">
+    <a class="btn-primary" href="/CV.pdf" target="_blank">Download CV</a>
+  </p>
+</div>
+<hr>
+<h3 id="About"><a class="headerlink" href="#About"></a>About</h3>
+<p>Welcome to my website!</p>
+<p>I am an Associate Professor of Finance at the Central University of Finance and Economics.<br>
+I received my Ph.D. in Finance from <strong>Tsinghua University</strong> in 2021, and my B.A. in <strong>Financial Engineering</strong> from Central University of Finance and Economics in 2015.</p>
+<hr>
+<h3 id="Research-Interests"><a class="headerlink" href="#Research-Interests"></a>Research Interests</h3>
+<ul>
+<li>Labor and Finance, Corporate Finance, AI and Big Data</li>
+</ul>
+<hr>
+<h3 id="Education"><a class="headerlink" href="#Education"></a>Education</h3>
+<ul>
+<li><strong>Ph.D. in Finance</strong>, Tsinghua University, 2021</li>
+<li><strong>B.A. in Financial Engineering</strong>, Central University of Finance and Economics, 2015</li>
+</ul>
+<hr>
+<h3 id="Selected-Working-Papers"><a class="headerlink" href="#Selected-Working-Papers"></a>Selected Working Papers</h3>
+<p><strong>Stock Price Shocks and Skill Demand</strong> (2025)</p>
+<ul>
+<li>with Yao Lu and Liu Yang</li>
+<li>Selected Presentations: FMA 2025, CICF 2023</li>
+</ul>
+<p><strong>Investors’ Risk-taking Behaviors after “Escaping from Death”</strong> (2025)</p>
+<ul>
+<li>with Xiaoying Xu</li>
+<li>Selected Presentations: FMA 2025, Asian FA 2024</li>
+</ul>
+<hr>
+<h3 id="Selected-Publications"><a class="headerlink" href="#Selected-Publications"></a>Selected Publications</h3>
+<p>[1] Can investment incentives crowd out innovation? Evidence from China (with Shaowei Ke, Yao Lu, and Xinzheng Shi), <em>Economic Development and Cultural Change</em>, 2025, 73(3), 1023-1072.<br>
+[2] Margin Trading, Short Selling, and Information Asymmetry (with Minggang Xu and Xueyong Zhang), <em>Journal of Financial Markets</em>, 2024: 100926.<br>
+[3] Do CEO Digital Characteristics Matter for Corporate Investment Efficiency (with Wei Jing and Danqi Sun), <em>Accounting &amp; Finance</em>, 2025, accepted.<br>
+[4] Mutual fund managers’ timing abilities (with Li Liao and Xueyong Zhang), 2017, <em>Pacific-Basin Finance Journal</em>, 44: 80–96.</p>
+<hr>
+<h3 id="中文论文-Publications-in-Chinese"><a class="headerlink" href="#中文论文-Publications-in-Chinese"></a>中文论文(Publications in Chinese)</h3>
+<p>[5] 张叶青, 陆瑶, 李乐芸. 2021. 大数据应用对中国企业市场价值的影响——来自中国上市公司年报文本分析的证据，经济研究, 56(12): 42–59.（封面文章）<br>
+[6] 张学勇, 张叶青（通讯作者）. 2016. 风险投资、创新能力与公司IPO的市场表现，经济研究，51(10): 112–125.<br>
+[7] 陆瑶, 张叶青, 黎波, 赵浩宇. 2020. 高管个人特征与公司业绩——基于机器学习的经验证据, 管理科学学报, 23 (2): 120–140.<br>
+[8] 陆瑶, 张叶青, 贾睿, 李健航. 2017. “辛迪加”风险投资与公司创新, 金融研究, 6: 159–175.<br>
+[9] 陆瑶, 施新政, 杨博涵, 张叶青. 2018. 沪港通实施、资本流动与A–H股溢价, 经济学报, 5(1): 1–26.</p>
+]]></content>
+      <tags>
+        <tag>Example</tag>
       </tags>
   </entry>
 </search>
