@@ -77,23 +77,28 @@
   <entry>
     <title>学术简历样本</title>
     <url>/academia-example.html</url>
-    <content><![CDATA[<div class="hero">
-  <h1 class="hero-title">Yeqing Zhang (张叶青)</h1>
-  <p class="hero-subtitle">Associate Professor of Finance</p>
-  <p class="hero-subtitle">National Academy of Financial and Economic Strategy, CUFE</p>
-  <p class="hero-meta">Address: 39 South College Road, Haidian District, Beijing, P.R.China 100081</p>
-  <p class="hero-meta">
-    📧 <a href="mailto:yeqingzhang@cufe.edu.cn">yeqingzhang@cufe.edu.cn</a>
-  </p>
-  <p class="hero-actions">
-    <a class="btn-primary" href="/CV.pdf" target="_blank">Download CV</a>
-  </p>
+    <content><![CDATA[<div class="hero" style="display:flex; align-items:center; gap:2rem;">
+  <!-- 左侧照片 -->
+  <div class="hero-photo">
+    <img src="/images/Yeqing_photo.jpg" alt="Yeqing Zhang" 
+         style="width:200px; height:200px; border-radius:50%; object-fit:cover; box-shadow:0 0 8px rgba(0,0,0,0.2);">
+  </div>
+  <!-- 右侧文字 -->
+  <div class="hero-text">
+    <h1 class="hero-title">Yeqing Zhang (张叶青)</h1>
+    <p class="hero-subtitle">Associate Professor of Finance</p>
+    <p class="hero-subtitle">National Academy of Financial and Economic Strategy, Central University of Finance and Economics</p>
+    <p class="hero-meta">Address: 39 South College Road, Haidian District, Beijing, P.R.China 100081</p>
+    <p class="hero-meta">
+      📧 <a href="mailto:yeqingzhang@cufe.edu.cn">yeqingzhang@cufe.edu.cn</a>
+    </p>
+  </div>
 </div>
 <hr>
 <h3 id="About"><a class="headerlink" href="#About"></a>About</h3>
 <p>Welcome to my website!</p>
-<p>I am an Associate Professor of Finance at the Central University of Finance and Economics.<br>
-I received my Ph.D. in Finance from <strong>Tsinghua University</strong> in 2021, and my B.A. in <strong>Financial Engineering</strong> from Central University of Finance and Economics in 2015.</p>
+<p>I am an Associate Professor of Finance at the National Academy of Financial and Economic Strategy, Central University of Finance and Economics. I received my Ph.D. in Finance from the <a href="https://www.sem.tsinghua.edu.cn/en/">School of Economics and Management at Tsinghua University</a> in June 2021. I received bachelor’s degree from the <a href="https://sf.cufe.edu.cn/">School of Finance at Central University of Finance and Economics</a> in 2015.</p>
+<p>My CV can be found <a href="https://yeqingzhang-finance.github.io/CV.pdf">here</a>.</p>
 <hr>
 <h3 id="Research-Interests"><a class="headerlink" href="#Research-Interests"></a>Research Interests</h3>
 <ul>
