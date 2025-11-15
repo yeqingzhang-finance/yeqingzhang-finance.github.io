@@ -81,7 +81,13 @@
   <!-- 左侧照片 -->
   <div class="hero-photo">
     <img src="/images/Yeqing_photo.jpg" alt="Yeqing Zhang" 
-         style="width:200px; height:200px; border-radius:50%; object-fit:cover; box-shadow:0 0 8px rgba(0,0,0,0.2);">
+         style="
+       width:160px; 
+       height:200px; 
+       object-fit:cover; 
+       border-radius:50%;
+       box-shadow:0 0 8px rgba(0,0,0,0.2);
+     ">
   </div>
   <!-- 右侧文字 -->
   <div class="hero-text">
@@ -115,7 +121,7 @@
 <p><strong>Stock Price Shocks and Skill Demand</strong> (2025)</p>
 <ul>
 <li>with <a href="https://www.sem.tsinghua.edu.cn/info/1207/32174.htm">Yao Lu</a> and <a href="https://www.rhsmith.umd.edu/directory/liu-yang">Liu Yang</a></li>
-<li>Selected Presentations: FMA 2025, CICF 2023</li>
+<li>Selected Presentations: Georgetown University Spring 2025 Labor and Finance Group Conference, FMA 2025, CICF 2023</li>
 </ul>
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611614"><strong>Investors’ Risk-taking Behaviors after “Escaping from Death”</strong></a> (2025)</p>
 <ul>
